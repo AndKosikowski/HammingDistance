@@ -3,7 +3,7 @@ A simple program for finding unique hamming distance paths in a linear graph of 
 
 Inside out/artifacts/HammingDistance_jar is a jar file that can be run to execute the program.
 
-The command for running the jar is "java -jar HammingDistance.jar <Number of Edges You Want Goes Here>"
+The command for running the jar is "java -jar HammingDistance.jar [Number of Edges You Want Goes Here]"
   
 Just run the command in the directory the jar is in.
   
